@@ -1,16 +1,39 @@
-# Title
+# Tell me what you eat, I'll tell you where you're from
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+
+Each country has its own historical experience that has shaped its culture over the time. During this process, the food culture has also evolved differently in each part of the world, and regions have created and developed their affinity with certain food.
+
+In this project, we want to highlight the food trend in each country and to realize their relation with the culture of the country. To this end, we have decided to use the Open Food Facts dataset, which will allow us to make those observations.
+
+It might be interesting to see which kind of food is more sold and consumed in a country and to see if this is related to the country culture. These information can be then useful for people who like to travel and can help them to better understand the culture of a country.
+
+
 
 # Research questions
-A list of research questions you would like to address during the project. 
+
+- What type of food is eaten in which country?
+
+- Do we see a correlation between the nutriments eaten in a country and the country itself?
+
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+
+We will use the `Open Food Facts` dataset. The dataset is in CSV format and is not too big (1.6Gb), so it will be fine to work on only using pandas. This dataset consists of multiple informations about food products, as for example the name of products, the ingredients, the countries in which those products are sold and the nutrition properties of the product such as the sugar, the energy and so on.
+
+We will try to extract some useful informations about what people eat in the different region of the world and what are the main nutrition elements they eat. We will try to see there is a correlation between the food and the location. This could be useful to orient the tourists on what to eat in which country.
+
+
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+
+Here is a non-exhaustive list of the different milestones:
+
+- Clean the dataset.
+- Extract first useful informations in the dataset such as the product sold per country.
+- Explore the data visualization and see what can be shown.
+- See if there are other dataset that can help use and if yes, download them.
 
 # Questions for TAa
+
 Add here some questions you have for us, in general or project-specific.
