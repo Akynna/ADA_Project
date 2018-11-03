@@ -13,17 +13,16 @@ It might be interesting to see which kind of food is more sold and consumed in a
 # Research questions
 
 - What type of food is eaten in which country?
-
 - Do we see a correlation between the nutriments eaten in a country and the country itself?
-
-
+- More precisely, is there a link between the food specialties in a country and its culture ?
+- Is there a geographical interpretation of the kind of nutriments consumed in certain regions ?
+- If we go deeper, does the type of food influence the way a country 
 
 # Dataset
 
 We will use the `Open Food Facts` dataset. The dataset is in CSV format and is not too big (1.6Gb), so it will be fine to work on only using Pandas. This dataset consists of multiple information about food products, as for example the name of products, the ingredients, the countries in which those products are sold and the nutrition properties of the product such as the sugar, the energy and so on.
 
 We will try to extract some useful information about what people eat in the different regions of the world and what are the main nutrition elements they eat. We will try to see there is a correlation between the food and the location. This could be useful to orient the tourists on what to eat in which country.
-
 
 
 # A list of internal milestones up until project milestone 2
