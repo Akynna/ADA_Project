@@ -9,7 +9,6 @@ In this project, we want to highlight the food trend in each country and to real
 It might be interesting to see which kind of food is more sold and consumed in a country and to see if this is related to the country culture. These information can be then useful for people who like to travel and can help them to better understand the culture of each part of the world.
 
 
-
 # Research questions
 
 - What type of food is eaten in which country?
@@ -29,24 +28,22 @@ We will try to extract some useful information about what people eat in the diff
 
 # A list of internal milestones up until project milestone 2
 
-## 1. Think about the available data we have & how to visualize it (until November 11th)
+## 1. Think about the available data we have & how to visualize it (until Nov. 11th)
 - Look for other dataset/table that can help us to highlight our future observations and give more meaning to our results
 - Preprocessing : find a way to load the data on our computer
-- Check how to load our dataset
 - Think about ways to visualize / tell the story of our data and see what can be shown
 
 
-## 2. Work on the cleaning and transformation of the dataset (until November 18th)
-
+## 2. Work on the cleaning and transformation of the dataset (until Nov. 18th)
 - Study more deeply available data and extract the first useful information and attributes we want to observe
 - Make a list of our expectations concerning the results
 - Plot the first results and find the first most significant representations
 
 
-## 3. Work on notebook and visualizations (until November 25th)
-- Write the text and work on relevant commented notebook that can be read by other people
+## 3. Work on notebook and visualizations (until Nov. 25th)
+- Write the process text and work on relevant commented notebook that can be read by other people
 - Have nice visualizations and first results in notebook
-
+- Find the relation between the results and our assumptions
 
 # Questions for TAs
 
