@@ -27,15 +27,13 @@ We will try to extract some useful information about what people eat in the diff
 
 # A list of internal milestones up until project milestone 2
 
-Here is a non-exhaustive list of the different milestones:
-
-- Clean the dataset.
-
+Here is a non-exhaustive list of what we plan to do until milestone 2:
+- See if there are other dataset that can help us to highlight some correlation and give more meaning to our observations and if yes, download them.
+- Load and clean the dataset.
+- Create a list of nutriments and attributes that we want to study
 - Extract first useful informations in the dataset such as the product sold per country.
-
 - Explore the data visualization and see what can be shown.
-
-- See if there are other dataset that can help use and if yes, download them.
+- 
 
 
 # Questions for TAs
